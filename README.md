@@ -2,7 +2,7 @@
 ## Obective:
 I have Hotel Booking dataset.The main objective of this project is explore the given dataset and find useful conclusion about general trends in hotel booking and discover how these factors affect on hospitality business.
 ## Dataset:
-The iven dataset have information of city and resort hotel. This dataset have 11390 rows and 32 coulumns. The columns from the dataset is as follows:
+The given dataset have information of city and resort hotel. This dataset have 11390 rows and 32 columns. The columns from the dataset is as follows:
 
 - hotel: Name of hotel ( City or Resort)
 - is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
@@ -94,20 +94,20 @@ Pairplot
 3) GDS distribution channel contributed more to ADR in city hotel.
 4) Optimal stay length in both hotel type is less than 7 days.
 5) Repeated guests do not cancel there bookings.
-6) Number of people increases adr aslo going to increase.
+6) Number of people increases adr also going to increase.
 
 ### Conclusion from correlation heatmap
 1) arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51.
 2) stays_in_week_nights and total_stay has positive correlation which is 0.95.
 
 ## Overall conclusion:
-1) City hotel has almost 60% bookings and resort hotel has 40% bookings.
-2) Agent no. 9 made most bookins and those bookings are 28721.
+1) City hotel has almost 66.45% bookings and resort hotel has 33.55% bookings.
+2) Agent no. 9 made most bookins and those bookings are 31961.
 3) Percentage of repeated guest is just 4%.
 4) Room type A is most preferred room type 46283 guests preferred A room type.
 5) BB type food is most preferred food type and 67907 preferred this food.
 6) Auust month has maximum number of bookings and those bookings are 11242.
-7) TA/TO distribution channel is mostly prefderred channel and the bookings are 69028.
+7) TA/TO distribution channel is mostly prefderred channel and the bookings are 69141.
 8) 2016 year has 42313 bookings.
 9) City hotel has highest ADR and trhe average ADR is 111.27.
 10) City hotel has longer waiting time means city hotel is busy hotel type.

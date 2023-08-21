@@ -1,5 +1,5 @@
 # EDA-Project-Hotel-Booking-Analysis
-
+![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 **AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/08074312957644)
 
 ## Obective:

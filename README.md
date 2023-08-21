@@ -1,6 +1,7 @@
 # EDA-Project-Hotel-Booking-Analysis
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 **AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/08074312957644)
+![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Obective:
 I have Hotel Booking dataset.The main objective of this project is explore the given dataset and find useful conclusion about general trends in hotel booking and discover how these factors affect on hospitality business.

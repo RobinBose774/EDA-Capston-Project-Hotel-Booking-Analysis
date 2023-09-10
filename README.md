@@ -6,7 +6,7 @@
 ## Obective:
 I have Hotel Booking dataset.The main objective of this project is explore the given dataset and find useful conclusion about general trends in hotel booking and discover how these factors affect on hospitality business.
 ## Dataset:
-The given dataset have information of city and resort hotel. This dataset have 11390 rows and 32 columns. The columns from the dataset is as follows:
+The given dataset have information of city and resort hotel. This dataset have 119390 rows and 32 columns. The columns from the dataset is as follows:
 
 - hotel: Name of hotel ( City or Resort)
 - is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
